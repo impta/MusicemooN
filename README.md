@@ -7,7 +7,7 @@ Supports Live streaming from youtube.
 ```
 Please fork this repository don't import code
 Made with Python3
-(C) @subinps
+(C) @impta
 Copyright permission under MIT License
 License -> https://github.com/subinps/MusicPlayer/blob/master/LICENSE
 
